@@ -2,9 +2,9 @@
 Examining reported deaths in New York Hospitals from SPARC 2019 Discharge Data
 
 Tools Used in this project are:
-•	SQL Server Management Studio	19 (SSMS)
-•	Microsoft SQL Server Developer (16.0.1000.6)
-•	Notepad++
+-	SQL Server Management Studio	19 (SSMS)
+*	Microsoft SQL Server Developer (16.0.1000.6)
++	Notepad++
 •	Tableau Desktop
 
 ## Business Problem
