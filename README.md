@@ -6,4 +6,4 @@ Local news reporting an unfortunate inpatient care incident has prompted state h
 
 ## Results
 
-For this project I use TSQL joins, delete and update clauses, case statements, aggregate functions, window functions, and bulk insert to ingest, clean and explore data to discover, and answer research questions within a Microsoft SQL Server database hosting the SPARCS2019 Hospital Discharge dataset. Tableau is used to visualize findings from the analysis, and build a final report.
+For this project I use TSQL joins, delete and update clauses, case statements, aggregate functions, window functions, and bulk insert to ingest, clean and explore data to discover, and answer research questions within a Microsoft SQL Server database hosting the SPARCS2019 Hospital Discharge dataset. I use Notepad++ to help locate invisible characters interfering with data ingestion. Tableau is used to visualize findings from the analysis, and build a final report.
