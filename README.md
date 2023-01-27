@@ -21,4 +21,4 @@ We will follow tried and true data science work flow beginning with data prepara
 During EDA we will find out basic information about the data through summary statistics, note any observations to help develop our research questions, and determine if further transformations to the data set are needed for data analysis. 
 In the Data Analysis stage, we will interpret the findings, share the results through tableau, and wrap up with our take away conclusions. Let’s get started!
 
-## [NY Hospital Mortality Analysis Part 1](https://github.com/cgjohnso/New_York_Hospital_Mortality_Analysis/blob/main/SPARC2019_NY_Hospital_Mortality_Analysis_Part1.pdf)
+## [NY Hospital Mortality Analysis Part 1 - Preparation](https://github.com/cgjohnso/New_York_Hospital_Mortality_Analysis/blob/main/SPARC2019_NY_Hospital_Mortality_Analysis_Part1.pdf)
