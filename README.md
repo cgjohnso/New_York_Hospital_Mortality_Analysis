@@ -1,5 +1,6 @@
 # New_York_Hospital_Mortality_Analysis
-Examining reported deaths in New York Hospitals from SPARC 2019 Discharge Data
+
+With this deep dive project walk through, I will demonstrate my process for taking on a healthcare business task, and deliver insights.  
 
 Tools Used in this project are:
 -	SQL Server Management Studio	19 (SSMS)
