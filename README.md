@@ -19,5 +19,5 @@ For this project I use TSQL joins, delete and update clauses, case statements, a
 
 We will follow tried and true data science work flow beginning with data preparation where we will collect the data set, discuss any limitations, import it into Microsoft SQL Server, review the data quality, and clean it before moving on to exploratory data analysis (EDA). 
 During EDA we will find out basic information about the data through summary statistics, note any observations to help develop our research questions, and determine if further transformations to the data set are needed for data analysis. 
-In the Data Analysis stage, we will interpret the findings, share the results through tableau, and wrap up with our take away conclusions. 
+In the Data Analysis stage, we will interpret the findings, share the results through tableau, and wrap up with our take away conclusions. Let’s get started!
 
