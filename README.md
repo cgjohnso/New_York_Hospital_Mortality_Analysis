@@ -1,4 +1,4 @@
-# New_York_Hospital_Mortality_Analysis
+# Introduction
 
 With this deep dive project walk through, I will demonstrate my process for taking on a healthcare business task, and deliver insights.  
 
