@@ -1,3 +1,6 @@
+## Table of Contents
+- [Analysis of Mortality in New York Hospitals Part 1 - Preparation](#Analysis of Mortality in New York Hospitals Part 1 - Preparation)
+
 # Introduction
 
 With this deep dive project walk through, I will demonstrate my process for taking on a healthcare business task, and deliver insights.  
