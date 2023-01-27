@@ -1,4 +1,4 @@
--- This SQL Code includes the queries used in the Preparation stage of the project: Analysis of New York Hospital Mortality by Chadwick Johnson
+-- This SQL Code includes the queries used in the Preparation stage of the project: Analysis of Mortality in New York Hospitals by Chadwick Johnson
 -- Project location:https://github.com/cgjohnso/New_York_Hospital_Mortality_Analysis 
 
 
