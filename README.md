@@ -16,12 +16,15 @@ Local news reporting an unfortunate inpatient care incident has prompted state h
 
 Who are the patients that are coming into the facilities?
 
-+ How many people survive/die during admission? 
++ How many people die during admission? 
 + What are the demographics of the patients?
-+ How are patients arriving at facilities?
++ How are patients arriving at facilities to be admitted?
 + 
 
 What conditions are patients presenting with?
++ What are the discharge diagnoses for the patients?
++ What procedures are they having while admitted?
++ How sick are the patients?
 
 What are the main factors contributing to mortality?
 
