@@ -16,6 +16,7 @@ Local news reporting an unfortunate inpatient care incident has prompted state h
 
 Who are the patients that are coming into the facilities?
 
++ How many people survive/die during admission? 
 + What are the demographics of the patients?
 + How are patients arriving at facilities?
 + 
