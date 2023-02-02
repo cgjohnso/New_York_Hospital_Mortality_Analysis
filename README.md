@@ -5,7 +5,7 @@ With this deep dive project walk through, I will demonstrate my process for taki
 Tools & skills used in this project are:
 + TSQL joins, delete and update clauses, case statements, aggregate functions, window functions, and bulk insert to ingest, clean and explore data to discover, and answer research questions
 +	Notepad++ to locate dataset characters interfering with data ingestion
-+	Tableau Desktop tp visualize findings, and build a final report
++	Tableau Desktop to visualize findings, and build a final report
 +	SQL Server Management Studio	19 (SSMS)
 +	Microsoft SQL Server Developer (16.0.1000.6)
 
