@@ -27,6 +27,7 @@ What conditions are patients presenting with?
 + How sick are the patients?
 
 What are the main factors contributing to mortality?
++ What correlates with mortality?
 
 
 ## Methodology
