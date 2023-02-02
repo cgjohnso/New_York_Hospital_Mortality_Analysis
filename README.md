@@ -22,7 +22,7 @@ Who are the patients that are coming into the facilities?
 + 
 
 What are the conditions that patients present with?
-+ What are the discharge diagnoses for the patients?
++ Which diagnoses cover 80% of all discharges?
 + What is their severity of illness?
 + What procedures are they having while admitted?
 
