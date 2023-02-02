@@ -15,7 +15,7 @@ Local news reporting an unfortunate inpatient care incident has prompted state h
 ## Methodology
 
 I begin with data preparation where I collect the data set, discuss any limitations, import it into Microsoft SQL Server, review the data quality, and clean it before moving on to exploratory data analysis (EDA). During EDA I find basic information about the data through summary statistics, note any observations that help develop my research questions, gain insights, and determine if further transformations are needed for data analysis. In the Data Analysis stage, I interpret the findings, share the results through tableau, and wrap up with my take away conclusions. 
-Let’s get started!
+
 
 
 # [Step 1 - Preparation (Walkthrough)](https://github.com/cgjohnso/New_York_Hospital_Mortality_Analysis/blob/main/SPARC2019_NY_Hospital_Mortality_Analysis_Part1.pdf)
