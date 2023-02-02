@@ -14,7 +14,7 @@ Local news reporting an unfortunate inpatient care incident has prompted state h
 
 ## Methodology
 
-We begin with data preparation where we will collect the data set, discuss any limitations, import it into Microsoft SQL Server, review the data quality, and clean it before moving on to exploratory data analysis (EDA). During EDA we find basic information about the data through summary statistics, note any observations to develop our research questions, and determine if further transformations are needed for data analysis. In the Data Analysis stage, we will interpret the findings, share the results through tableau, and wrap up with our take away conclusions. 
+We begin with data preparation where we will collect the data set, discuss any limitations, import it into Microsoft SQL Server, review the data quality, and clean it before moving on to exploratory data analysis (EDA). During EDA we find basic information about the data through summary statistics, note any observations to develop our research questions, gain insights, and determine if further transformations are needed for data analysis. In the Data Analysis stage, we will interpret the findings, share the results through tableau, and wrap up with our take away conclusions. 
 Let’s get started!
 
 
