@@ -18,7 +18,7 @@ Who are the patients that are coming into the facilities?
 
 + How many people die during admission? 
 + What are the demographics of the patients? Age, race, gender, ethnicity, insurance status
-+ How are patients arriving at facilities to be admitted?
++ What type of admission do patients fall under upon arriving at facilities?
 + 
 
 What are the conditions that patients present with?
