@@ -22,6 +22,8 @@ Who are the patients that are coming into the facilities?
 
 What conditions are patients presenting with?
 
+What are the main factors contributing to mortality?
+
 
 ## Methodology
 
