@@ -12,6 +12,17 @@ Local news reporting an unfortunate inpatient care incident has prompted state h
 +	SQL Server Management Studio	19 (SSMS)
 +	Microsoft SQL Server Developer (16.0.1000.6)
 
+## Research Questions
+
+Who are the patients that are coming into the facilities?
+
++ What are the demographics of the patients?
++ How are patients arriving at facilities?
++ 
+
+What conditions are patients presenting with?
+
+
 ## Methodology
 
 I begin with data preparation where I collect the data set, discuss any limitations, import it into Microsoft SQL Server, review the data quality, and clean it before moving on to exploratory data analysis (EDA). During EDA I find basic information about the data through summary statistics, note any observations that help develop my research questions, gain insights, and determine if further transformations are needed for data analysis. In the Data Analysis stage, I interpret the findings, share the results through tableau, and wrap up with my take away conclusions. 
