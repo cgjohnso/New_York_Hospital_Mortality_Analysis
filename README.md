@@ -21,7 +21,7 @@ Who are the patients that are coming into the facilities?
 + How are patients arriving at facilities to be admitted?
 + 
 
-What conditions are patients presenting with?
+What are the conditions that patients present with?
 + What are the discharge diagnoses for the patients?
 + What procedures are they having while admitted?
 + How sick are the patients?
