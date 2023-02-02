@@ -2,7 +2,7 @@
 
 With this deep dive project walk through, I will demonstrate my process for taking on a healthcare business task, and deliver insights.  
 
-Tools & skills used in this project are:
+## Tools & Skills Used In This Project
 + TSQL joins, delete and update clauses, case statements, aggregate functions, window functions, and bulk insert to ingest, clean and explore data to discover, and answer research questions
 +	Notepad++ to locate dataset characters interfering with data ingestion
 +	Tableau Desktop to visualize findings, and build a final report
