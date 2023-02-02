@@ -23,8 +23,9 @@ Who are the patients that are coming into the facilities?
 
 What are the conditions that patients present with?
 + What are the discharge diagnoses for the patients?
++ What is their severity of illness?
 + What procedures are they having while admitted?
-+ How sick are the patients?
+
 
 Which factors correlate strongest to mortality?
 
