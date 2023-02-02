@@ -7,7 +7,7 @@ Local news reporting an unfortunate inpatient care incident has prompted state h
 
 ## Tools & Skills Used In This Project
 + TSQL: create tables, views, identity column, execute joins, delete and update clauses, case statements, aggregate functions, window functions, and bulk insert to ingest, clean, explore data, and answer research questions
-+	Notepad++: locate dataset characters interfering with data ingestion
++	Notepad++: locate characters interfering with data ingestion
 +	Tableau Desktop: visualize findings, and build a final report
 +	SQL Server Management Studio	19 (SSMS)
 +	Microsoft SQL Server Developer (16.0.1000.6)
