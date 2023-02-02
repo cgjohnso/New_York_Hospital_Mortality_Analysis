@@ -26,8 +26,7 @@ What are the conditions that patients present with?
 + What procedures are they having while admitted?
 + How sick are the patients?
 
-What are the main factors contributing to mortality?
-+ What correlates with mortality?
+Which factors correlate strongest to mortality?
 
 
 ## Methodology
