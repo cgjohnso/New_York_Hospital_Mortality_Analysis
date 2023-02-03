@@ -14,12 +14,14 @@ Local news reporting an unfortunate inpatient care incident has prompted state h
 
 ## Research Questions
 
+Which factors correlate strongest to mortality?
+
 Who are the patients that are coming into the facilities?
 
 + How many people die during admission? 
 + What are the demographics of the patients? Age, race, gender, ethnicity, insurance status
 + What type of admission do patients fall under upon arriving at facilities?
-+ 
+
 
 What are the conditions that patients present with?
 + Which diagnoses cover 80% of all discharges?
@@ -27,7 +29,7 @@ What are the conditions that patients present with?
 + What procedures are they having while admitted?
 
 
-Which factors correlate strongest to mortality?
+
 
 
 ## Methodology
