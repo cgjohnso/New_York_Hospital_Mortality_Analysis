@@ -12,6 +12,10 @@ Local news reporting an unfortunate inpatient care incident has prompted state h
 +	SQL Server Management Studio	19 (SSMS)
 +	Microsoft SQL Server Developer (16.0.1000.6)
 
+## Data Set
+- Hospital Inpatient Discharges (SPARCS De-Identified): 2019 - [Download](https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/4ny4-j5zv).
+
+
 ## Research Questions
 
 Which factors correlate strongest to mortality?
